@@ -39,6 +39,37 @@ pts = useless
 
 Player name = correlated with our players.csv, maybe we can determine if a certain player can have a higher accuracy
 
+50/50 datasplit:
+
+Baseline: always around 0.5
+
+Feature1:
+	Log1 0.6061685016006871
+	log2 0.6061528851409386
+	Svm 0.6058561724057157
+Feature2:
+	Log1 0.6060904193019443
+	log2 0.6060904193019443
+	Svm 0.6060123370032013
+Feature3: 
+	Log1 0.6061060357616929
+	log2 0.6060904193019443
+	Svm 0.6060123370032013
+
+95/5 datasplit:
+Feature1:
+	Log1 0.6074328544659587
+	log2 0.6074328544659587
+	Svm 0.6079013116801999
+Feature2:
+	Log1 0.6071205496564647
+	log2 0.6069643972517177
+	Svm 0.6069643972517177
+Feature3: 
+	Log1 0.6069643972517177
+	log2 0.6069643972517177
+	Svm 0.6069643972517177
+
 
 
 
