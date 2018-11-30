@@ -88,6 +88,10 @@ Feature 2: Train accuracy:  0.9805613775531171 Test accuracy:  0.584009993753903
 Feature 3: Train accuracy: 0.9794188961492624 Test accuracy:  0.5765146783260462
 Feature 4: Train accuracy:  0.9821477006534336 Test accuracy:  0.5832292317301686
 
-
+Random Forest result (50/50 split) (params: n_estimators = 100, random_state = 42, max_depth=20)
+Feature 1: Train accuracy:  0.9368148171284005 Test accuracy:  0.595439993753416
+Feature 2: Train accuracy:  0.9424680638410844 Test accuracy:  0.6028734285937378
+Feature 3: Train accuracy:  0.9348471124714995 Test accuracy:  0.6032013742484579
+Feature 4: Train accuracy:  0.9373145516444389 Test accuracy:  0.6079800109315219
 
 
