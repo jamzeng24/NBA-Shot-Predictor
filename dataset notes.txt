@@ -70,6 +70,23 @@ Feature3:
 	log2 0.6069643972517177
 	Svm 0.6069643972517177
 
+Random Forest result (95/5 split) (params: n_estimators = 100, random_state = 42, max_depth=20)
+Feature 1: Train accuracy:  0.8852915793367032 Test accuracy:  0.6032167395377889
+Feature 2: Train accuracy:  0.8956150084247729 Test accuracy:  0.6141474078700812
+Feature 3: Train accuracy:  0.8908971355771997 Test accuracy:  0.6119612742036228
+Feature 4: Train accuracy:  0.8918916697489007 Test accuracy:  0.6099312929419113
+
+Random Forest result (95/5 split) (n_estimators = 1000, random_state = 42, max_depth=4)
+Feature 1: Train accuracy:  0.6134549788353265 Test accuracy:  0.6153966271080574
+Feature 2: Train accuracy:  0.6137097768462582 Test accuracy:  0.6144597126795752
+Feature 3: Train accuracy:  0.61358648748613 Test accuracy:  0.6146158650843223
+Feature 4: Train accuracy:  0.6135289524514035 Test accuracy:  0.6116489693941287
+
+Random Forest result (95/5 split) (n_estimators = 10, random_state = 42)
+Feature 1: Train accuracy:  0.9757448732174413 Test accuracy:  0.5701124297314178
+Feature 2: Train accuracy:  0.9805613775531171 Test accuracy:  0.5840099937539038
+Feature 3: Train accuracy: 0.9794188961492624 Test accuracy:  0.5765146783260462
+Feature 4: Train accuracy:  0.9821477006534336 Test accuracy:  0.5832292317301686
 
 
 
